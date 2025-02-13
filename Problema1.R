@@ -30,3 +30,4 @@ IQR(mis_dades$cyl)
 
 sd(mis_dades$cyl)
 var(mis_dades$qsec)
+<asfzasdfed
