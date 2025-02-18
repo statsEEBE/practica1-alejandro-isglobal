@@ -38,3 +38,16 @@ sum((x-mean(x))^2)/(length(x)-1)
 var(x)
 
 mmmmm
+median(mis_dades$cyl)
+IQR(mis_dades$cyl)
+mean(mis_dades$cyl)
+
+
+sd(mis_dades$cyl)
+var(mis_dades$qsec)
+x <- mis_dades$qsec
+
+sum((x-mean(x))^2)/(length(x)-1)
+var(x)
+
+mmmmm
