@@ -1,10 +1,14 @@
-#Codigo para problema 
-x <- c(8, 6, 0, 1, 7, 5, 8, 1, 3, 4)
+x <- 10:20
+
+x[2]
+x[2:4]
+x[-c(3,5,7)]
+
 sum(x)
+y <- x[-c(3,5,7)]
+y
 
-y <- x[-c(3,7,8)]
-
-sum(exp(x))-sum(exp(y))
+sum(exp(x)) - sum(exp(y))
 
 y[5]
-y[2]
+y[7]
